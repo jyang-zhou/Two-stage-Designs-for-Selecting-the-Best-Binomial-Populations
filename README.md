@@ -8,3 +8,16 @@ The research is to study two-stage designs in phase II clinical trials to select
 
 
 <img width="1039" alt="table2" src="https://user-images.githubusercontent.com/95513386/153334427-877c8bf3-16b1-44fa-8588-77728784fb1e.png">
+
+![image](https://user-images.githubusercontent.com/95513386/153334468-a8a293ea-90ba-4927-8ce7-59e2520ca8d6.png)
+
+## Simon's Optimal Two-Stage Designs
+
+![image](https://user-images.githubusercontent.com/95513386/153334518-7e070141-8281-438e-b375-88deaa992172.png)
+
+![image](https://user-images.githubusercontent.com/95513386/153334534-33e26149-35a3-4a67-8e1e-4b5052a0d99f.png)
+
+![image](https://user-images.githubusercontent.com/95513386/153334567-2820cbbb-9575-4212-86e5-dfe47e47faee.png)
+
+![image](https://user-images.githubusercontent.com/95513386/153334585-62959fcd-512d-45e7-8d49-594fd10198a9.png)
+
