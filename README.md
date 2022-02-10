@@ -3,3 +3,8 @@ The research is to study two-stage designs in phase II clinical trials to select
 
 ## Exact Binomial Distribution
 ![image](https://user-images.githubusercontent.com/95513386/153334328-055be6d3-c801-4515-9d29-2593da7a308f.png)
+
+<img width="1043" alt="table1" src="https://user-images.githubusercontent.com/95513386/153334394-ce9eb4ac-91a6-47bf-a4df-70af1ec31198.png">
+
+
+<img width="1039" alt="table2" src="https://user-images.githubusercontent.com/95513386/153334427-877c8bf3-16b1-44fa-8588-77728784fb1e.png">
