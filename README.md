@@ -37,4 +37,18 @@ The research is to study two-stage designs in phase II clinical trials to select
 
 ![image](https://user-images.githubusercontent.com/95513386/153335016-6a011c73-dde5-4853-84bb-a033424527ea.png)
 
+![image](https://user-images.githubusercontent.com/95513386/153335051-bee0b076-80a3-4a47-a608-6c0bffdb70a1.png)
+
+
+## Conclusion
+
+This paper implements three methods for comparing two binomial populations. Exact binomial
+distribution method just directly compare two binomial populations. In contrast to the  rst
+method, Simon's two-stage designs provides a more accurate outcome as well as saves the sample
+size. In future study, Chi and Chen's Curtailed two-stage designs are the improvement of Simon's
+designs. This paper proves that no matter in testing one binomial population or comparing
+two binomial populations, Curtailed methods have a smaller expected number of patients than
+Simon's methods under the same condition. The sample sizes are saved as well. In short, when
+drug safety are not taken into consideration, applying Curtailed two-stage methods to compare
+two drugs e eciently are highly recommended.
 
