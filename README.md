@@ -35,3 +35,6 @@ The research is to study two-stage designs in phase II clinical trials to select
 
 <img width="941" alt="table7" src="https://user-images.githubusercontent.com/95513386/153334950-99ca2f44-04fa-458b-817e-a38e4ef8245c.png">
 
+![image](https://user-images.githubusercontent.com/95513386/153335016-6a011c73-dde5-4853-84bb-a033424527ea.png)
+
+
