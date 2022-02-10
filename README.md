@@ -21,3 +21,17 @@ The research is to study two-stage designs in phase II clinical trials to select
 
 ![image](https://user-images.githubusercontent.com/95513386/153334585-62959fcd-512d-45e7-8d49-594fd10198a9.png)
 
+# Curtailed Two-Stage Designs
+
+![image](https://user-images.githubusercontent.com/95513386/153334817-b89d4b53-441d-41b8-a4cb-192c55991370.png)
+
+![image](https://user-images.githubusercontent.com/95513386/153334848-447ad5d5-9456-4402-a3f4-e3d2efedf626.png)
+
+![image](https://user-images.githubusercontent.com/95513386/153334883-5261e345-9173-4df7-8e16-70d13cf90d17.png)
+
+![image](https://user-images.githubusercontent.com/95513386/153334899-985764af-47b8-4a02-9ac6-d9fe3736b927.png)
+
+![image](https://user-images.githubusercontent.com/95513386/153334919-1fb9621d-1b64-4989-b608-2d3b24c57b29.png)
+
+<img width="941" alt="table7" src="https://user-images.githubusercontent.com/95513386/153334950-99ca2f44-04fa-458b-817e-a38e4ef8245c.png">
+
